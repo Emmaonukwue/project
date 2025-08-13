@@ -1,0 +1,113 @@
+[18-Feb-2024 17:16:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jufpdtoz_root'@'localhost' to database 'jufpdtoz_test1' in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_addedstudent.php(2): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 10:17:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:18:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:18:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:18:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:18:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:18:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:21:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's written work is imaginative and engaging! he uses descriptive language and ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 10:30:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's attention. Keep developing your your skills.' WHERE `results`.`std_name` = ...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:09:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's working on changing this unhealthy behavior, and she's made some progress i...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:10:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's clear that she takes pride in her work. The confidence she has in her acade...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:11:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's working on changing this behavior, and she's made some progress .' WHERE `r...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:11:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's clear that she takes pride in her work. The confidence she has in her acade...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:11:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's clear that she takes pride in her work. The confidence she has in her acade...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:12:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's clear that she takes pride in her work. The confidence she has in her acade...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 11:12:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's clear that she takes pride in her work. The confidence she has in her acade...' at line 1 in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:12
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 12
+[19-Feb-2024 12:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 9
+[19-Feb-2024 12:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 12:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 12:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 12:56:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 13:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 13:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10
+[19-Feb-2024 13:14:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forceEnter() in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/admin/save_loadedtcomment.php on line 10

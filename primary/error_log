@@ -1,0 +1,159 @@
+[18-Feb-2024 16:57:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[18-Feb-2024 17:03:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[18-Feb-2024 17:04:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[18-Feb-2024 17:07:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jufpdtoz_root'@'localhost' to database 'jufpdtoz_test1' in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[18-Feb-2024 17:11:55 UTC] PHP Warning:  include(../portal/request_broadsheet.php): Failed to open stream: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:11:55 UTC] PHP Warning:  include(): Failed opening '../portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:11:55 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:12:07 UTC] PHP Warning:  include(../portal/request_broadsheet.php): Failed to open stream: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:12:07 UTC] PHP Warning:  include(): Failed opening '../portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:12:07 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:14:08 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:08 UTC] PHP Warning:  include(http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php): Failed to open stream: no suitable wrapper could be found in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:08 UTC] PHP Warning:  include(): Failed opening 'http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:08 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:14:34 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:34 UTC] PHP Warning:  include(http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php): Failed to open stream: no suitable wrapper could be found in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:34 UTC] PHP Warning:  include(): Failed opening 'http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:14:34 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:19:53 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:19:53 UTC] PHP Warning:  include(http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php): Failed to open stream: no suitable wrapper could be found in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:19:53 UTC] PHP Warning:  include(): Failed opening 'http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:19:53 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:20:15 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:20:15 UTC] PHP Warning:  include(http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php): Failed to open stream: no suitable wrapper could be found in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:20:15 UTC] PHP Warning:  include(): Failed opening 'http://sms.pinefieldschools.com/lms_2024/portal/request_broadsheet.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 7
+[18-Feb-2024 17:20:15 UTC] PHP Warning:  Undefined variable $mysqli in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 17:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 9
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 15
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 16
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 83
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 85
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 87
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 89
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 89
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 93
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 101
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 103
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 126
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 126
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 134
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 134
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 142
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 142
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 150
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 150
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 158
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 158
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 165
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 165
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 173
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 173
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 181
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 181
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 189
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 189
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 248
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 252
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 256
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 260
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 264
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 268
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 280
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 285
+[18-Feb-2024 18:13:37 UTC] PHP Warning:  Trying to access array offset on null in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php on line 289
+[19-Feb-2024 04:02:22 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 04:02:22 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 04:02:22 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 04:02:22 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 04:02:22 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 05:02:27 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 05:02:27 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 05:02:27 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 05:02:27 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 05:02:27 UTC] PHP Warning:  Undefined array key "mat_1" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 136
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 204
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 205
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 204
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 205
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 204
+[19-Feb-2024 11:56:29 UTC] PHP Warning:  Undefined array key "class_teacher's_comment" in /home/jufpdtoz/lms-2024/lms_2024/portal/primary/broadsheet_data.php on line 205
+[19-Feb-2024 14:25:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 14:25:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 14:27:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 14:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 14:28:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
+[19-Feb-2024 14:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php:2
+Stack trace:
+#0 /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php(2): mysqli->__construct()
+#1 /home/jufpdtoz/lms-2024/lms_2024/portal/primary/primary_report.php(7): include('/home/jufpdtoz/...')
+#2 {main}
+  thrown in /home/jufpdtoz/lms-2024/lms_2024/portal/request_broadsheet.php on line 2
